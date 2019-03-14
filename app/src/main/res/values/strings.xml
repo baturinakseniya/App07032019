@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App07032019</string>
+    <string name="hello">"Hello World!"</string>
+    <string name="btn1">Нажми!!!</string>
+    <string name="HelloRussia">Hello from Russia!</string>
+    <string name="TextAfter">Button pressed</string>
+    <string name="Name">Your name</string>
+    <string name="hint">A name</string>
+</resources>
